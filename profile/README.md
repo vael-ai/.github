@@ -1,4 +1,3 @@
 # Vael
 
-_Your Files. Revolutionized.
-_
+*Your Files. Revolutionized.*
